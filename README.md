@@ -5,8 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-
+[ERdiagram](./Screenshot 2023-04-27 134442.png)
 ## DESIGN STEPS
 
 STEP 1:
@@ -49,6 +48,8 @@ class GitAdmin(admin.ModelAdmin):
 ```
 
 ##OUTPUT
+
+[](./Screenshot 2023-04-27 134457.png)
 
 ## RESULT
 Thus a Django application is successfully developed to store and retrieve data from a database using Object Relational Mapping(ORM).
